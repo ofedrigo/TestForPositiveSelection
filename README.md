@@ -19,22 +19,10 @@ what sites are under positive selection, negative selection, or neutral.
 
 Various versions of this script have been used in the following manuscripts:
 
-Fedrigo O., A.D. Pfefferle, C.C. Babbitt, R. Haygood, C.E. Wall, and G.A. Wray. 
-Multiple lines of evidence link glucose transporters to human brain evolution. 
-BRAIN, BEHAVIOR AND EVOLUTION. (DOI: 10.1159/000329852)
-Pfefferle A.D., L.R. Warner, C.W. Wang, W. J. Nielsen, C.C. Babbitt, O.
-Fedrigo, and G.A. Wray. Expression analysis of the phosphocreatine
-circuit in primates: implications for human brain evolution. (In
-revision)
-Cruz-Gordillo P., O. Fedrigo, G.A. Wray, and C.C. Babbitt. (2010)
-Expression analysis of the opioid gene family in primates: implications
-for human pain and nociception evolution. Brain, Behavior & Evolution
-(In press).
-Haygood R., O. Fedrigo, and G.A. Wray. (2008) Reply to "Rapidly
-evolving human promoter regions. Nature Genetics. 40(11): 1263-1264.
-[PDF]
-Haygood R.*, O. Fedrigo*,B. Hanson, K.-D. Yokoyama, and G. A. Wray.
-(2007) Promoter regions of many neural- and nutrition-related genes
-have experienced positive selection during human evolution. NATURE
-GENETICS. 39(9): 1140:1144. [PDF] * These authors contributed equally
-to this research
+<ul>
+<li>Fedrigo O., A.D. Pfefferle, C.C. Babbitt, R. Haygood, C.E. Wall, and G.A. Wray. (2011) Multiple lines of evidence link glucose transporters to human brain evolution. Brain, Behavior and Evolution. 78:315–326.</li>
+<li>Pfefferle A.D., L.R. Warner, C.W. Wang, W. J. Nielsen, C.C. Babbitt, O. Fedrigo, and G.A. Wray. (2011) Comparative expression analysis of the phosphocreatine circuit in extant primates: Implications for human brain evolution. Journal of Human Evolution. 60(2):205-12.</li>
+<li>Cruz-Gordillo P., O. Fedrigo, G.A. Wray, and C.C. Babbitt. (2010) Extensive Changes in the Expression of the Opioid Genes between Humans and Chimpanzees. Brain, Behavior and Evolution.76:154-162.</li>
+<li>Haygood R., O. Fedrigo, and G.A. Wray. (2008) Reply to "Rapidly evolving human promoter regions. Nature Genetics. 40(11): 1263-1264.</li>
+<li>Haygood R., O. Fedrigo,B. Hanson, K.-D. Yokoyama, and G. A. Wray.(2007) Promoter regions of many neural- and nutrition-related genes have experienced positive selection during human evolution. Nature Genetics. 39(9): 1140:1144.</li>
+</ul>
