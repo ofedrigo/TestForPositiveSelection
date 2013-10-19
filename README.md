@@ -16,9 +16,10 @@ Bayes Empirical Bayes algorithm (Z. Yang, W.S.W. Wong, and R. Nielsen.
 (2005) Bayes Empirical Bayes Inference of Amino Acid Sites Under
 Positive Selection. Mol Biol Evol (2005) 22 (4): 1107-1118) to detect
 what sites are under positive selection, negative selection, or neutral.
-Flavors of this script have been used in the following manuscripts:
 
-FFedrigo O., A.D. Pfefferle, C.C. Babbitt, R. Haygood, C.E. Wall, and G.A. Wray. 
+Various versions of this script have been used in the following manuscripts:
+
+Fedrigo O., A.D. Pfefferle, C.C. Babbitt, R. Haygood, C.E. Wall, and G.A. Wray. 
 Multiple lines of evidence link glucose transporters to human brain evolution. 
 BRAIN, BEHAVIOR AND EVOLUTION. (DOI: 10.1159/000329852)
 Pfefferle A.D., L.R. Warner, C.W. Wang, W. J. Nielsen, C.C. Babbitt, O.
