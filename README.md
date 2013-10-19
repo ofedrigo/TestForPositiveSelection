@@ -1,24 +1,26 @@
 TestForPositiveSelection
 ========================
-This is a HyPhy batch file for testing for signatures of positive
-selection in non-coding sequences. The method is an improved version of
-EvoNC (W.S.W. Wong and R. Nielsen. (2004) Detecting Selection in
-Noncoding Regions of Nucleotide Sequences. Genetics, Vol. 167, 949-958)
+This is a HyPhy batch file (http://hyphy.org/w/index.php/Main_Page) 
+for testing for signatures of positive selection in non-coding sequences. T
+he method is an improved version of EvoNC (W.S.W. Wong and R. Nielsen. (2004) 
+Detecting Selection in Noncoding Regions of Nucleotide Sequences. Genetics, Vol. 167, 949-958)
 into a modified branch-site model (J. Zhang, Z. Yang, and R. Nielsen.
 (2005) Evaluation of an Improved Branch-Site Likelihood Method for
 Detecting Positive Selection at the Molecular Level. Mol Biol Evol 22
 (12): 2472-2479).
-This script allows you to use introns or synonymous substitutions from
-nearby coding sequences as neutral proxies. You can choose to look at
+
+This script allows to use introns or synonymous substitutions from
+nearby coding sequences as neutral proxies for testing . You can choose to look at
 positive selection on any branch and run a Naive Empirical Bayes or
 Bayes Empirical Bayes algorithm (Z. Yang, W.S.W. Wong, and R. Nielsen.
 (2005) Bayes Empirical Bayes Inference of Amino Acid Sites Under
 Positive Selection. Mol Biol Evol (2005) 22 (4): 1107-1118) to detect
 what sites are under positive selection, negative selection, or neutral.
 Flavors of this script have been used in the following manuscripts:
-Fedrigo O., A.D. Pfefferle, C.C. Babbitt, R. Haygood, C.E. Wall, and
-G.A. Wray. Multiple lines of evidence link glucose transporters to
-human brain evolution. (Submitted)
+
+FFedrigo O., A.D. Pfefferle, C.C. Babbitt, R. Haygood, C.E. Wall, and G.A. Wray. 
+Multiple lines of evidence link glucose transporters to human brain evolution. 
+BRAIN, BEHAVIOR AND EVOLUTION. (DOI: 10.1159/000329852)
 Pfefferle A.D., L.R. Warner, C.W. Wang, W. J. Nielsen, C.C. Babbitt, O.
 Fedrigo, and G.A. Wray. Expression analysis of the phosphocreatine
 circuit in primates: implications for human brain evolution. (In
