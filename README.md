@@ -1,5 +1,10 @@
 TestForPositiveSelection
 ========================
+***RemoveDashes.py***
+This python script cleans Fasta alignmnents prior to performing tests for positive selection: it deletes "columns" that contain at least one gap or any non-base symbols (i.e. not A, C, G, or T).
+
+
+*** nonCodingSelection.bf ***
 This is a HyPhy batch file (http://hyphy.org/w/index.php/Main_Page) 
 for testing for signatures of positive selection in non-coding sequences. T
 he method is an improved version of EvoNC (W.S.W. Wong and R. Nielsen. (2004) 
